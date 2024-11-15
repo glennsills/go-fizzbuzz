@@ -28,7 +28,6 @@ func main() {
 
 		default:
 			fmt.Println(i)
-
 		}
 	}
 }
